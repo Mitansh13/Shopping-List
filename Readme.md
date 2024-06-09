@@ -1,1 +1,3 @@
-This is a JS Project
+JS Project
+
+Project as a part of Learning.
